@@ -1,0 +1,7 @@
+{
+  "name": "EDU AR 3D Studio",
+  "description": "Nền tảng thư viện mô hình 3D và Thực tế tăng cường (AR) tương tác dành cho giáo dục - Khám phá kiến trúc, toán học và khoa học.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
